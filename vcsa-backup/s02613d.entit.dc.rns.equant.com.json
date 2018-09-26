@@ -1,0 +1,19 @@
+{
+  "vCenter":{
+	  "Server":"s02613d.entit.dc.rns.equant.com",
+	  "User":"administrator@vsphere.local",
+	  "Password":"Peg@seOS1"
+  },
+  
+  "Transfert":{
+	  "Server":"s01956d.entit.dc.rns.equant.com",
+	  "User":"vcsa_backup",
+	  "Password":"hitu18feb"
+  },
+  
+  "SMTP":{
+  	"Server":"xxx",
+	"Sender":"xxx",
+	"Recipient":"xxx"
+  }
+}
